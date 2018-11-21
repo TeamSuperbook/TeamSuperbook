@@ -479,11 +479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj",
+      "projectUniqueName": "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj",
       "projectName": "TryRecipe",
-      "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj",
+      "projectPath": "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj",
       "packagesPath": "C:\\Users\\mlinget\\.nuget\\packages\\",
-      "outputPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe\\obj\\",
+      "outputPath": "D:\\TryPull\\TryRecipe\\TryRecipe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

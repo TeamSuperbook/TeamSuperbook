@@ -6,7 +6,7 @@
 
     <StackLayout>
         
-        <Label Text="Update Wow"
+        <Label Text="Update Again"
                FontSize="40"
 	       VerticalOptions="Center"/>
 	

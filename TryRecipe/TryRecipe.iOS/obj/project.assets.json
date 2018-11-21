@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TryRecipe\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
+      "projectUniqueName": "D:\\TryPull\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
       "projectName": "TryRecipe.iOS",
-      "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
+      "projectPath": "D:\\TryPull\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
       "packagesPath": "C:\\Users\\mlinget\\.nuget\\packages\\",
-      "outputPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.iOS\\obj\\",
+      "outputPath": "D:\\TryPull\\TryRecipe\\TryRecipe.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1039,8 +1039,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
-              "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
+            "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
+              "projectPath": "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
             }
           }
         }

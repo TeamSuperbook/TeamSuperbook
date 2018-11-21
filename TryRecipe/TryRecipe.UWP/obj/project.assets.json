@@ -8081,11 +8081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TryRecipe\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
+      "projectUniqueName": "D:\\TryPull\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
       "projectName": "TryRecipe.UWP",
-      "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
+      "projectPath": "D:\\TryPull\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
       "packagesPath": "C:\\Users\\mlinget\\.nuget\\packages\\",
-      "outputPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.UWP\\obj\\",
+      "outputPath": "D:\\TryPull\\TryRecipe\\TryRecipe.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8105,8 +8105,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
-              "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
+            "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
+              "projectPath": "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
             }
           }
         }
