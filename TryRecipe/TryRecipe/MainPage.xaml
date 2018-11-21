@@ -5,13 +5,14 @@
              x:Class="TryRecipe.MainPage">
 
     <StackLayout>
-        
+        <Switch />
         <Label Text="Update Again"
                FontSize="40"
 	           VerticalOptions="Center"
                HorizontalOptions="Center"/>
-        <Label Text="Mini Update"
-               FontSize="20"/>
+        <Label Text="Update brruuuuuu"
+               FontSize="25"
+               FontAttributes="Italic"/>
 	
     </StackLayout>
 

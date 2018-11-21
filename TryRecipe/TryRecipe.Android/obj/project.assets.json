@@ -954,11 +954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TryPull\\TryRecipe\\TryRecipe.Android\\TryRecipe.Android.csproj",
+      "projectUniqueName": "D:\\TryPullR\\TryRecipe\\TryRecipe.Android\\TryRecipe.Android.csproj",
       "projectName": "TryRecipe.Android",
-      "projectPath": "D:\\TryPull\\TryRecipe\\TryRecipe.Android\\TryRecipe.Android.csproj",
+      "projectPath": "D:\\TryPullR\\TryRecipe\\TryRecipe.Android\\TryRecipe.Android.csproj",
       "packagesPath": "C:\\Users\\mlinget\\.nuget\\packages\\",
-      "outputPath": "D:\\TryPull\\TryRecipe\\TryRecipe.Android\\obj\\",
+      "outputPath": "D:\\TryPullR\\TryRecipe\\TryRecipe.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -975,8 +975,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
-              "projectPath": "D:\\TryPull\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
+            "D:\\TryPullR\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
+              "projectPath": "D:\\TryPullR\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
             }
           }
         }
