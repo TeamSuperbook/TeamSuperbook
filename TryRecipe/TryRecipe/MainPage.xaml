@@ -6,13 +6,15 @@
 
     <StackLayout>
         <Switch />
-        <Label Text="Update Again"
+        <Label Text="Update pleaseeeee"
                FontSize="40"
 	           VerticalOptions="Center"
-               HorizontalOptions="Center"/>
+               HorizontalOptions="Center"
+               FontAttributes="Bold"/>
         <Label Text="Update brruuuuuu"
                FontSize="25"
-               FontAttributes="Italic"/>
+               FontAttributes="Italic"
+               VerticalOptions="Center"/>
 	
     </StackLayout>
 
